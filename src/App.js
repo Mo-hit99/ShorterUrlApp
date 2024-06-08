@@ -14,7 +14,7 @@ function App() {
                   },{
                 headers:{
                   'Content-Type' : 'application/json',
-                  'Authorization':'2f71c791d1269b65c953bed80da1f8d4bcf15680'  // user  ur tken are for api auth
+                  'Authorization':''  // user  ur tken are for api auth
                   } 
             
                 });  
